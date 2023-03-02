@@ -4,7 +4,7 @@ Submitted by: **Eric Ly**
 
 This web app: **Shows many of memorable anime shows :)**
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
