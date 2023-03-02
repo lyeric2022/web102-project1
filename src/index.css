@@ -1,0 +1,15 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  color-scheme: light dark;
+  color: black;
+  background-color: #242424;
+}
+
+h1 {
+  margin-bottom: 25px;
+}
+
+img {
+  border-radius: 5px;
+}
